@@ -10,10 +10,8 @@ method="post">
  <tr>
  <th colspan="3">
  Form Input Data Mata Kuliah
- </th>
- </tr>
-39
- <tr>
+</t>
+<tr>
  <td colspan="3">
  <hr>
  </td>
