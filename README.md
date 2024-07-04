@@ -1,16 +1,15 @@
 <h1 align="center">Pustaka Booking</h1>
-<h3 align="center">Aplikasi Web dengan Framework Codeigniter</h3>
+<h3 align="center">Web Programming ll</h3>
 
-
-<p align='center'>Ini adalah aplikasi web yang dibuat berdasarkan modul materi Web Programming II Universitas Bina Sarana Informatika, dengan menggunakan framework Codeigniter 3.</p>
+<p align='center'>Nama saya Fahrian dengan NIM 15220737 kelas 15.4A.11. Ini adalah repository untuk tugas Web Programming ll yaitu Pustaka Booking.</p>
 
 Login Admin:
-admin@anrdart.com
-alul
+fahrian@admin.com
+password : 123
 
-Jika ingin ke tampilan dashboard pada admin
+Login Member:
+fahrian@member.com
+password : 123
+
+jika ingin berada di tampilan admin:
 http://localhost/pustaka-booking/admin
-
-<br>
-<br>
-<h2 align='center'>Terima Kasih:sunglasses:</h2>
